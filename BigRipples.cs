@@ -5,10 +5,9 @@ using System.ComponentModel;
 using UnityEngine;
 using Utilla;
 
-namespace SolidMonkeys
+namespace BigRipples
 {
     [ModdedGamemode]
-    [Description("HauntedModMenu")]
     [BepInDependency("org.legoandmars.gorillatag.utilla", "1.5.0")]
     public class BigRipples : BaseUnityPlugin
     {
